@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">DeepLinkingApp1</string>
+    <string name="app_name">Deep Linking App 1</string>
+    <string name="parameter_1">Parameter 1</string>
+    <string name="parameter_2">Parameter 2</string>
+    <string name="enter_parameter_1">Enter parameter 1…</string>
+    <string name="enter_parameter_2">Enter parameter 2…</string>
+    <string name="source_application_1">Source - Application 1</string>
+    <string name="open_application_2_passing_values">Open (Application 2) + [Passing values]</string>
+    <string name="CanNotDestinationApplicationText">Can Not open Destination Application</string>
+    <string name="Okword">OK</string>
+
 </resources>
