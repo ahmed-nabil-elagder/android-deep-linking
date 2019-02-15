@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">DeepLinkingApp2</string>
+    <string name="app_name">Deep Linking App 2</string>
+    <string name="parameter_1">Parameter 1</string>
+    <string name="parameter_2">Parameter 2</string>
+    <string name="receive_parameter_1">open App 1, to receive a value…</string>
+    <string name="receive_parameter_2">open App 1, to receive a value…</string>
+    <string name="destination_application_2">Destination - Application 2</string>
+
 </resources>
